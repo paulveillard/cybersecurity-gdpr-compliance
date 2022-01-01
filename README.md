@@ -4,7 +4,7 @@
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 ## What is GDPR?
-**The General Data Protection Regulation [(GDPR)](https://gdpr.eu/)** is a regulation that harmonizes national data privacy laws throughout the EU and enhances the protection of all EU residents with respect to their personal data.
+**The General Data Protection Regulation [(GDPR)](https://gdpr.eu/)** is *a regulation that harmonizes national data privacy laws throughout the EU and enhances the protection of all EU residents with respect to their personal data.*
 * This harmonization creates new rights for individuals and a set of stronger and clearer rules for businesses.
 * The GDPR applies to all companies handling the personal data of EU residents, including companies established outside the EU if they offer goods or services to EU residents or monitor their behaviour.
 * The GDPR entered into force on May 25, 2018.
