@@ -3,13 +3,13 @@
 > A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about General Data Protection Regulation (GDPR).
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-## What is GDPR?
+##  `What is GDPR? `
 **The General Data Protection Regulation [(GDPR)](https://gdpr.eu/)** is *a regulation that harmonizes national data privacy laws throughout the EU and enhances the protection of all EU residents with respect to their personal data.*
 * This harmonization creates new rights for individuals and a set of stronger and clearer rules for businesses.
 * The GDPR applies to all companies handling the personal data of EU residents, including companies established outside the EU if they offer goods or services to EU residents or monitor their behaviour.
 * The GDPR entered into force on May 25, 2018.
 
-## Table of Contents
+##  `Table of Contents `
 * [Legal text](#legal-text)
 * [Guidelines](#Guidelines)
 * [Privacy by Design - Guides for developers (art. 25)](#privacy-by-design---guides-for-developers-art-25)
@@ -25,19 +25,19 @@
 
 **[`^        back to top        ^`](#)**
 
-## Legal text
+##  `Legal text `
 * [GDPR (2016/679)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) - Official version of GDPR.
 * [GDPR-info](https://gdpr-info.eu/) - GDPR linked to relevant articles and section in the preamble (Non-official site).
 * [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5) - Compare the Regulation, Directive and National legislation. Linked to relevant section in preamble (Non-official site).
 * [GDPRhub -> GDPR Articles](https://gdprhub.eu/index.php?title=Category:GDPR_Articles) - GDPR articles included commentary.
   
-## Guidelines
+##  `Guidelines `
 * EDPB: [Guidelines](https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en) & [Opinions](https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en)
 * [ICO: Guide to GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 * [Handbook on European data protection law ](https://publications.europa.eu/en/publication-detail/-/publication/5b0cfa83-63f3-11e8-ab9c-01aa75ed71a1) - Handbook issued by EU.
 * EDPS: [Factsheets](https://edps.europa.eu/data-protection/our-work/our-work-by-type/factsheets_en) - Factsheets from EU Data Protection Supervisor.
   
-## Privacy by Design - Guides for developers (art. 25)
+##  `Privacy by Design - Guides for developers (art. 25) `
 * [CNIL - GDPR Developer Guide](https://github.com/LINCnil/GDPR-Developer-Guide)
 * [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/innebygd-personvern/data-protection-by-design-and-by-default/)
 * [Data Pseudonymisation: Advanced Techniques and Use Cases](https://www.enisa.europa.eu/publications/data-pseudonymisation-advanced-techniques-and-use-cases/) - Report on pseudonymisation techniques from ENISA.
